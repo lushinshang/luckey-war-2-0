@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 640" width="420" height="640" role="img" font-family="PingFang TC, Noto Sans TC, Microsoft JhengHei, sans-serif">
+<title>戰爭部改名的五個理由（示意圖）</title>
+<desc>依講者在 7:01 到 9:19 的說法整理：嚇阻、透明與預算、目標明確、士氣、排斥反對者；他說這五點沒有按重要性排序。</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#444"/></marker></defs>
+<rect width="420" height="640" fill="#fbfaf7"/>
+<text x="24" y="42" font-size="18" fill="#1f3a5f" font-weight="bold" text-anchor="start">Luckey 列的五個理由</text>
+<rect x="24" y="64" width="372" height="84" rx="10" fill="#ffffff" stroke="#c9ccd4" stroke-width="1.8"/>
+<text x="44" y="94" font-size="17" fill="#1f3a5f" font-weight="bold" text-anchor="start">嚇阻</text>
+<text x="44" y="126" font-size="15" fill="#1d2433" text-anchor="start">名稱要讓全世界一看就懂用途</text>
+<rect x="24" y="160" width="372" height="84" rx="10" fill="#ffffff" stroke="#c9ccd4" stroke-width="1.8"/>
+<text x="44" y="190" font-size="17" fill="#1f3a5f" font-weight="bold" text-anchor="start">透明與預算</text>
+<text x="44" y="222" font-size="15" fill="#1d2433" text-anchor="start">用防衛當名目，花錢就沒有上限</text>
+<rect x="24" y="256" width="372" height="84" rx="10" fill="#ffffff" stroke="#c9ccd4" stroke-width="1.8"/>
+<text x="44" y="286" font-size="17" fill="#1f3a5f" font-weight="bold" text-anchor="start">目標明確</text>
+<text x="44" y="318" font-size="15" fill="#1d2433" text-anchor="start">什麼都想做，就一事無成</text>
+<rect x="24" y="352" width="372" height="84" rx="10" fill="#ffffff" stroke="#c9ccd4" stroke-width="1.8"/>
+<text x="44" y="382" font-size="17" fill="#1f3a5f" font-weight="bold" text-anchor="start">士氣</text>
+<text x="44" y="414" font-size="15" fill="#1d2433" text-anchor="start">國防部輸掉每場戰爭，戰爭部贏了每場</text>
+<rect x="24" y="448" width="372" height="84" rx="10" fill="#ffffff" stroke="#c9ccd4" stroke-width="1.8"/>
+<text x="44" y="478" font-size="17" fill="#1f3a5f" font-weight="bold" text-anchor="start">排斥反對者</text>
+<text x="44" y="510" font-size="15" fill="#1d2433" text-anchor="start">驅逐錯的人，免得成為組織的毒瘤</text>
+<text x="24" y="574" font-size="13" fill="#566075" text-anchor="start">依講者 7:01–9:19 的說法整理</text>
+<text x="24" y="596" font-size="13" fill="#566075" text-anchor="start">他說這五點沒有按重要性排序</text>
+</svg>

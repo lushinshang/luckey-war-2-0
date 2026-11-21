@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 480" width="980" height="480" role="img" font-family="PingFang TC, Noto Sans TC, Microsoft JhengHei, sans-serif">
+<title>Meridian 的批評與回應（示意圖）</title>
+<desc>依講者在 29:08 到 32:16 的說法整理：主持人念出 Wes Bryant 的批評，Luckey 回應人數、義務、類比、老問題，並說報告會公開。</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#444"/></marker></defs>
+<rect width="980" height="480" fill="#fbfaf7"/>
+<text x="40" y="48" font-size="24" fill="#1f3a5f" font-weight="bold" text-anchor="start">Meridian：批評與回應</text>
+<rect x="40" y="80" width="360" height="56" rx="10" fill="#fbeeea" stroke="#b3402f" stroke-width="1.8"/>
+<text x="220.0" y="114.3" font-size="18" fill="#1d2433" font-weight="bold" text-anchor="middle">Sorkin 念出的批評</text>
+<rect x="40" y="136" width="360" height="200" rx="10" fill="#ffffff" stroke="#b3402f" stroke-width="1.8"/>
+<text x="220" y="242" font-size="16" fill="#1d2433" text-anchor="middle">Wes Bryant：國防企業與政府太緊密</text>
+<path d="M402 236 L438 236" stroke="#444" stroke-width="2.2" fill="none" marker-end="url(#ah)"/>
+<rect x="440" y="80" width="500" height="56" rx="10" fill="#eef2f8" stroke="#1f3a5f" stroke-width="1.8"/>
+<text x="690.0" y="114.3" font-size="18" fill="#1d2433" font-weight="bold" text-anchor="middle">Luckey 的回應</text>
+<rect x="440" y="136" width="500" height="290" rx="10" fill="#ffffff" stroke="#1f3a5f" stroke-width="1.8"/>
+<text x="466" y="178" font-size="16" fill="#1d2433" text-anchor="start">人數：超過 20 人，包括退役將領</text>
+<text x="466" y="228" font-size="16" fill="#1d2433" text-anchor="start">義務：被國家要求幫忙，就會答應</text>
+<text x="466" y="278" font-size="16" fill="#1d2433" text-anchor="start">類比：Eric Schmidt 進委員會時，沒人這樣問</text>
+<text x="466" y="328" font-size="16" fill="#1d2433" text-anchor="start">老問題：這種安排從二戰以來就有</text>
+<text x="466" y="378" font-size="16" fill="#1d2433" text-anchor="start">報告會公開：請讀完再評斷</text>
+<text x="40" y="462" font-size="14" fill="#566075" text-anchor="start">依講者 29:08–32:16 的說法整理的示意圖</text>
+</svg>

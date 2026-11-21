@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 700" width="420" height="700" role="img" font-family="PingFang TC, Noto Sans TC, Microsoft JhengHei, sans-serif">
+<title>兩張衛星網的取捨（示意圖）</title>
+<desc>依講者說法繪製：烏克蘭的武器若使用 Starlink 商用網，俄方稱其為合法軍事目標；Starshield 軍用網則因政府擔心星系被炸而不開放。非官方說明。</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#444"/></marker></defs>
+<rect width="420" height="700" fill="#fbfaf7"/>
+<text x="24" y="42" font-size="20" fill="#1f3a5f" font-weight="bold" text-anchor="start">講者的論點：兩張衛星網的取捨</text>
+<rect x="24" y="70" width="372" height="56" rx="10" fill="#eef2f8" stroke="#1f3a5f" stroke-width="1.8"/>
+<text x="210.0" y="103.95" font-size="17" fill="#1d2433" font-weight="bold" text-anchor="middle">烏克蘭的武器</text>
+<rect x="24" y="190" width="372" height="56" rx="10" fill="#ffffff" stroke="#3f6a96" stroke-width="1.8"/>
+<text x="210.0" y="223.95" font-size="17" fill="#1d2433" font-weight="bold" text-anchor="middle">Starlink（商用網）</text>
+<rect x="24" y="290" width="372" height="90" rx="10" fill="#fbeeea" stroke="#b3402f" stroke-width="1.8"/>
+<text x="210.0" y="340.25" font-size="15" fill="#1d2433" text-anchor="middle">俄方威脅：被用於攻擊，就是合法軍事目標</text>
+<rect x="24" y="440" width="372" height="56" rx="10" fill="#ffffff" stroke="#d9822b" stroke-width="1.8"/>
+<text x="210.0" y="473.95" font-size="17" fill="#1d2433" font-weight="bold" text-anchor="middle">Starshield（軍用網）</text>
+<rect x="24" y="540" width="372" height="56" rx="10" fill="#fdf3e6" stroke="#d9822b" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="210.0" y="573.25" font-size="15" fill="#1d2433" text-anchor="middle">政府不願開放，怕星系被炸</text>
+<path d="M210 126 L210 188" stroke="#444" stroke-width="2.2" fill="none" marker-end="url(#ah)"/>
+<path d="M210 246 L210 288" stroke="#b3402f" stroke-width="2.2" fill="none" marker-end="url(#ah)"/>
+<path d="M60 126 C20 200 20 380 60 438" stroke="#444" stroke-width="2.2" fill="none" stroke-dasharray="6 4" marker-end="url(#ah)"/>
+<path d="M210 496 L210 538" stroke="#d9822b" stroke-width="2.2" fill="none" stroke-dasharray="6 4" marker-end="url(#ah)"/>
+<text x="24" y="650" font-size="13" fill="#566075" text-anchor="start">示意圖：依講者說法繪製，非官方說明</text>
+</svg>

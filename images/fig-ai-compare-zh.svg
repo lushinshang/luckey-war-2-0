@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 520" width="980" height="520" role="img" font-family="PingFang TC, Noto Sans TC, Microsoft JhengHei, sans-serif">
+<title>兩種 AI 的對照（示意圖）</title>
+<desc>依講者說法整理：通用大型語言模型會捏造資料來源；武器用的 AI 接收雷達與熱成像訊號，不會像聊天機器人那樣道歉改口。他的界線是把 ChatGPT 放進飛彈會讓人害怕，他的標準是和沒有它時相比平民是否死得更少。非技術規格。</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#444"/></marker></defs>
+<rect width="980" height="520" fill="#fbfaf7"/>
+<text x="40" y="48" font-size="24" fill="#1f3a5f" font-weight="bold" text-anchor="start">Luckey 區分的兩種 AI</text>
+<rect x="40" y="80" width="430" height="56" rx="10" fill="#eef2f8" stroke="#3f6a96" stroke-width="1.8"/>
+<text x="255.0" y="114.3" font-size="18" fill="#1d2433" font-weight="bold" text-anchor="middle">通用大型語言模型</text>
+<rect x="510" y="80" width="430" height="56" rx="10" fill="#fdf3e6" stroke="#d9822b" stroke-width="1.8"/>
+<text x="725.0" y="114.3" font-size="18" fill="#1d2433" font-weight="bold" text-anchor="middle">武器用的 AI</text>
+<rect x="40" y="150" width="430" height="150" rx="10" fill="#ffffff" stroke="#3f6a96" stroke-width="1.8"/>
+<rect x="510" y="150" width="430" height="150" rx="10" fill="#ffffff" stroke="#d9822b" stroke-width="1.8"/>
+<text x="255" y="230" font-size="16" fill="#1d2433" text-anchor="middle">例：叫它寫作業，它捏造了資料來源</text>
+<text x="725" y="215" font-size="16" fill="#1d2433" text-anchor="middle">輸入：雷達與熱成像訊號</text>
+<text x="725" y="255" font-size="16" fill="#1d2433" text-anchor="middle">他說：它不會像聊天機器人那樣道歉改口</text>
+<rect x="40" y="330" width="900" height="60" rx="10" fill="#fbeeea" stroke="#b3402f" stroke-width="1.8"/>
+<text x="490.0" y="366.3" font-size="18" fill="#1d2433" text-anchor="middle">他的界線：把 ChatGPT 放進飛彈，會讓人害怕</text>
+<rect x="40" y="410" width="900" height="60" rx="10" fill="#eef2f8" stroke="#1f3a5f" stroke-width="1.8"/>
+<text x="490.0" y="446.3" font-size="18" fill="#1d2433" font-weight="bold" text-anchor="middle">他的標準：比沒有它時，平民死得更少嗎</text>
+<text x="40" y="502" font-size="14" fill="#566075" text-anchor="start">依講者 24:38–26:26 的說法整理的示意圖，不是技術規格</text>
+</svg>
